@@ -1,0 +1,1 @@
+javac -g -d bin src\com\sample\LogAnalyser.java

@@ -1,0 +1,1 @@
+java -cp bin com.sample.LogAnalyser sample.log out.log
